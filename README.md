@@ -5,4 +5,4 @@
 # remélem már jo lesz
 # Aki kér, annak megadatik!
 # Dolgozat előtti tesztelés.
-# Ismét teszt.
+# Ismét teszt. Igen
