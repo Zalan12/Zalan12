@@ -1,8 +1,1 @@
-# szijaaa
-# elso kommitt
-# Továbbra is
-# Erikbá vscode
-# remélem már jo lesz
-# Aki kér, annak megadatik!
-# Dolgozat előtti tesztelés.
-# Ismét teszt. Nem
+# Ez mi?????
