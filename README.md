@@ -4,3 +4,4 @@
 # Erikbá vscode
 # remélem már jo lesz
 # Aki kér, annak megadatik!
+# Dolgozat előtti tesztelés.
