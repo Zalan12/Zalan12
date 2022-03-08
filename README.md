@@ -5,3 +5,7 @@
 # Kifejezetten érdekes az óra, egyre jobban értem a GitHub működési elvét.
 # Thank you, Overseer!
 # "Csodás időket élünk manapság, Hiszen mindenki arról beszél amit szeret, és mindenki azt mondhatja, amit gondol. "
+# Megoldatlan rejtély származásunk titka,
+# A felelet előtt számos kapu nyitva.
+# Az urál vidékén születik a nemzet,
+# Ugoroktól búcsú, megtörtént a kezdet.
