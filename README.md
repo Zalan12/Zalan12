@@ -9,3 +9,4 @@
 # A felelet előtt számos kapu nyitva.
 # Az urál vidékén születik a nemzet,
 # Ugoroktól búcsú, megtörtént a kezdet.
+# Megalakult a farkció. Ez az első ülés. Nagy terveink vannak a jövőre nézve.
